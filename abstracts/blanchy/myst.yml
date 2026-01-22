@@ -3,7 +3,7 @@ extends: ../agrogeo26.yml
 project:
   id: agrogeo-2026-blanchy
   title: Experimental fields too have an history
-  description: we present the procedures used to collect ECa maps of these agricultural fields
+  description: We present the procedures used to collect ECa maps of these agricultural fields
   authors:
     - name: Guillaume Blanchy
       affiliation: ILVO

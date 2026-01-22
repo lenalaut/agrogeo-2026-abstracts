@@ -1,6 +1,6 @@
 ---
 title: Experimental fields too have an history
-description: we present the procedures used to collect ECa maps of these agricultural fields
+description: We present the procedures used to collect ECa maps of these agricultural fields
 ---
 
 # Abstract
