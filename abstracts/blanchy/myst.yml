@@ -13,4 +13,6 @@ project:
       affiliation: UGent
     - name: Sarah Garré
       affiliation: ILVO
+  abbreviations:
+    EMI: electromagnetic induction
   github: https://github.com/curvenote-submit/agrogeo26
