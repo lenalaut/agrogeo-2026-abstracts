@@ -14,8 +14,8 @@ jobs:
       # The pattern is helpful if you require authors to create their own unique ID
       # This must be globally unique in Curvenote, please prefix it with your site if you enforce it
       id-pattern-regex: '^agrogeo-2026-(?:[a-zA-Z0-9-_]{3,30})$'
-      # This enforces each PR only includes a single abstract.
-      enforce-single-folder: true
+      # Uncomment to enforce single abstract in each PR
+      # enforce-single-folder: true
       # Update this with your site name
       venue: agrogeo
       kind: abstract
