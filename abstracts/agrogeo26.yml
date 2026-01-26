@@ -8,8 +8,8 @@ project:
     date: 5-6 February 2026
     url: https://agrogeophy.github.io/agrogeo26/
   date: 2026-02-05
-  banner: banner.png
-  thumbnail: thumbnail.png
+  banner: ../banner.png
+  thumbnail: ../thumbnail.png
   open_access: true
   license: CC-BY-4.0
   exports:
