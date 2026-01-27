@@ -19,7 +19,7 @@ project:
       output: abstract.pdf
       template: ../../abstract-template
 site:
-  template: article-theme
+  template: https://github.com/myst-templates/article-theme/archive/refs/heads/main.zip
   actions:
     - title: pdf
       url: abstract.pdf
