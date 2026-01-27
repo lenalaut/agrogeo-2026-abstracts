@@ -1,0 +1,94 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-gerea
+  title: 'Earth Rover Program: A Geophysical Initiative Developing Open-Source Sensors, Methodologies, and Data for Global Soil Health'
+  description: As global agriculture faces the pressures of intensive farming and harsher climate conditions, monitoring soil health has become a critical priority. The Earth Rover Program is a non-profit initiative transforming the agricultural sector by making geophysics more open and affordable.
+  authors:
+    - name: Alexandra Gerea
+      affiliations:
+        - aff1
+        - aff2
+    - name: Maria Tsekhmistrenko
+      affiliations:
+        - aff1
+    - name: Joe Collins
+      affiliations:
+        - aff1
+        - aff3
+    - name: Tina Fallah
+      affiliations:
+        - aff1
+        - aff3
+    - name: Jiayao Meng
+      affiliations:
+        - aff1
+        - aff4
+    - name: Kuangdai Leng
+      affiliations:
+        - aff1
+    - name: Yder Masson
+      affiliations:
+        - aff1
+    - name: Matteo Bagagli
+      affiliations:
+        - aff1
+    - name: Peter Mosongo
+      affiliations:
+        - aff1
+        - aff5
+    - name: Morine Wangechi
+      affiliations:
+        - aff1
+        - aff5
+    - name: Kevin Davidson
+      affiliations:
+        - aff1
+    - name: Joe J. Collins
+      affiliations:
+        - aff1
+    - name: Marco Mazzoli
+      affiliations:
+        - aff1
+    - name: Maure Figueroa Lopez
+      affiliations:
+        - aff1
+        - aff6
+        - aff7
+    - name: Andres Velez Guezo
+      affiliations:
+        - aff1
+        - aff6
+        - aff7
+    - name: Jeroen Ritsema
+      affiliations:
+        - aff1
+        - aff8
+    - name: Simon Jeffery
+      affiliations:
+        - aff1
+        - aff3
+    - name: Tarje Nissen-Meyer
+      affiliations:
+        - aff1
+        - aff4
+  affiliations:
+    - id: aff1
+      name: Earth Rover Program UK
+    - id: aff2
+      name: National Institute for Earth Physics Romania
+    - id: aff3
+      name: Harper Adams University UK
+    - id: aff4
+      name: University of Exeter UK
+    - id: aff5
+      name: The Centre for Ecosystem Restoration Kenya
+    - id: aff6
+      name: International Center for Tropical Agriculture Colombia
+    - id: aff7
+      name: Universidad Nacional de Colombia
+    - id: aff8
+      name: University of Michigan US
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    GPR: Ground Penetrating Radar

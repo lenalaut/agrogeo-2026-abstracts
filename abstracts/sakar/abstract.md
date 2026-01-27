@@ -1,0 +1,10 @@
+---
+title: Coupling ERT with Physics-Informed Machine Learning to Characterize Root Zone Water Dynamics
+description: Quantifying spatiotemporal root water uptake remains a central challenge in agricultural hydrology, particularly under field conditions where subsurface processes are both heterogeneous and difficult to observe directly. This study presents a physics-informed neural network framework that integrates time-lapse geoelectrical tomograms and point-scale water content measurements to reconstruct unsaturated flow dynamics and infer RWU patterns without prior knowledge of the root system.
+---
+
+# Abstract
+
+Quantifying spatiotemporal root water uptake (RWU) remains a central challenge in agricultural hydrology, particularly under field conditions where subsurface processes are both heterogeneous and difficult to observe directly. Machine learning (ML) techniques have gained considerable attention in imaging subsurface flow. Particularly, physics-informed neural networks (PINN) have been developed to learn and solve forward and inverse problems constrained by physical equations. This study presents a PINN framework that integrates time-lapse geoelectrical tomograms and point-scale water content measurements to reconstruct unsaturated flow dynamics and infer RWU patterns without prior knowledge of the root system. 
+A synthetic benchmark based on high-resolution numerical simulations was used to validate the framework. Time-lapse electrical resistivity tomography (ERT) images and sparse soil water content measurements were derived from the numerical model. A dual output PINN that simultaneously predicted soil water saturation and the RWU while enforcing Richards’ equation as a physical constraint was developed. 
+Results showed that PINN significantly improves the saturation estimates, achieving higher accuracy than the ERT derived ones. The PINN model successfully reconstructed the spatial and temporal distribution of RWU patterns and retrieved the underlying water stress response with errors of less than 3%. Sensitivity tests further indicate robustness to biased hydraulic and petrophysical parameters. 

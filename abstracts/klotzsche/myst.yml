@@ -1,0 +1,23 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-klotzsche
+  title: Investigating the effect of maize roots and nitrate using horizontal crosshole GPR data – A case study from the field minirhizotron facilities
+  description: The non-invasive imaging of small-scale soil and root-zone heterogeneities remains a critical yet challenging frontier in agrogeophysics. In recent years, crosshole ground penetrating radar has demonstrated significant potential for providing insights into the soil-plant continuum Here, we present time-lapse horizontal crosshole GPR data acquired at the field minirhizotron facility in Selhausen, Germany.
+  authors:
+    - name: Sophia Schiebel
+      affiliation: ibg
+    - name: Lena Lärm
+      affiliation: ibg
+    - name: Dominik Hoven
+      affiliation: ibg
+    - name: J. van der Kruk
+      affiliation: ibg
+    - name: Anja Klotzsche
+      affiliation: ibg
+  affiliations:
+    - id: ibg
+      name: 'Institute of Bio- and Geoscience: Agrosphere (IBG-3), Forschungszentrum Jülich GmbH'
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    GPR: ground penetrating radar

@@ -1,0 +1,10 @@
+---
+title: "Earth Rover Program: A Geophysical Initiative Developing Open-Source Sensors, Methodologies, and Data for Global Soil Health"
+description: As global agriculture faces the pressures of intensive farming and harsher climate conditions, monitoring soil health has become a critical priority. The Earth Rover Program is a non-profit initiative transforming the agricultural sector by making geophysics more open and affordable.
+---
+
+# Abstract
+
+As global agriculture faces the pressures of intensive farming and harsher climate conditions, monitoring soil health has become a critical priority. The Earth Rover Program is a non-profit initiative transforming the agricultural sector by making geophysics more open and affordable. We go beyond just providing data; our team develops the sensors and the step-by-step methodologies needed to make soil science accessible to everyone, from researchers to local farmers.
+Our current work focuses on "soilsmology"—using seismic waves to understand soil structure and health. To address expensive equipment costs, we are developing ultra-low-cost seismic sensors (aiming for $1 per unit), and also integrating other methods like resistivity and Ground Penetrating Radar (GPR) into our sensor development and data collection. This framework is designed to train machine learning algorithms by combining geophysical data, satellite imagery, public soil parameters, and our own direct soil sampling and analysis.
+With active hubs in the UK, Kenya, Colombia, France, and Germany, we have already collected extensive seismic data across diverse soil types, including a recent high-resolution 1-hectare survey. This research and our global database will be open-access. By providing these tools and "know-how," the Earth Rover Program will help farmers to make better crop choices without hurting the environment. We are a global team of seismologists and soil scientists working together to ensure that sustainable farming is possible for everyone, regardless of budget, currently looking to expand our network further to bring these low-cost geophysical solutions to more regions and soil types around the world.

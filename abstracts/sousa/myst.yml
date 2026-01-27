@@ -1,0 +1,12 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-sousa
+  title: 'Geospatial Intelligence for Precision Agriculture: Integrating Multi-Sensor Drone Data for Soil-Water-Crop Dynamics'
+  description: Precision agriculture is increasingly reliant on geospatial technologies to optimize resource use and improve crop productivity. This keynote explores the integration of multi-sensor data, ranging from multispectral and hyperspectral imaging to LiDAR, thermal, and ground-penetrating radar, acquired via autonomous drones.
+  authors:
+    - name: Joaquim J. Sousa
+      affiliation: UTAD
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    GPR: ground-penetrating radar

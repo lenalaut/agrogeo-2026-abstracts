@@ -1,0 +1,12 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-romero-ruz
+  title: What is the economic cost of soil compaction? Initial estimation via geophysical mapping and continental agroecosystem modelling
+  description: Soil compaction is a threat with negative impacts on soil ecosystem services, such as food production, groundwater recharge and climate regulation. This study discusses an approach to estimate them by combining (1) continental-based agroecosystem simulations of compaction induced economic losses and (2) case study-based quantification of soil compaction spatial extent with geophysical methods.
+  authors:
+    - name: Alejandro Romero-Ruiz
+      affiliation: University of Neuchâtel
+    - name: Landon Halloran
+      affiliation: University of Neuchâtel
+  github: https://github.com/curvenote-submit/agrogeo26

@@ -1,0 +1,16 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-cioffi
+  title: A Synthetic Study of the Cosmic Ray Neutron Sensing Detector Response to Heterogeneous Soils and Moisture Content Distribution for Agrogeophysical Applications
+  description: The accurate quantification of volumetric water content at the intermediate spatial scale is essential for agriculture, with direct implications for irrigation management and soil health assessment. The interpretation of Cosmic Ray Neutron Sensing data in heterogeneous agricultural fields remains challenging due to complex soil moisture variability and the inherently nonlinear relationship between neutron intensity and hydrogen content.
+  authors:
+    - name: Viola Cioffi
+      affiliation: University of Padua
+    - name: Luca Peruzzo
+    - name: Giorgio Cassiani
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    CRNS: Cosmic Ray Neutron Sensing
+    VWC: volumetric water content
+    EMI: Electromagnetic Induction

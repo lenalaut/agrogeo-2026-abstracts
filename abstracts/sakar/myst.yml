@@ -1,0 +1,28 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-sakar
+  title: Coupling ERT with Physics-Informed Machine Learning to Characterize Root Zone Water Dynamics
+  description: Quantifying spatiotemporal root water uptake remains a central challenge in agricultural hydrology, particularly under field conditions where subsurface processes are both heterogeneous and difficult to observe directly. This study presents a physics-informed neural network framework that integrates time-lapse geoelectrical tomograms and point-scale water content measurements to reconstruct unsaturated flow dynamics and infer RWU patterns without prior knowledge of the root system.
+  authors:
+    - name: Caner Sakar
+      affiliations:
+        - aff1
+        - aff2
+    - name: Kuzma Tsukanov
+      affiliation: aff2
+    - name: Nimrod Schwartz
+      affiliation: aff1
+    - name: Ziv Moreno
+      affiliation: aff2
+  affiliations:
+    - id: aff1
+      name: The Robert H. Smith Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem, Israel
+    - id: aff2
+      name: Institute of Soil, Water and Environmental Sciences, Agricultural Research Organization (ARO), Volcani Institute, Israel
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    ERT: electrical resistivity tomography
+    PINN: physics-informed neural network
+    RWU: root water uptake
+    ML: machine learning

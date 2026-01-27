@@ -1,0 +1,8 @@
+---
+title: "Controlled Drainage DemoField: Advancing Water Management and Yield Resilience"
+description: Agriculture faces the dual challenge of managing water excess and deficit—pressures intensified by climate change—while reducing nutrient losses to surface waters. Controlled drainage offers a promising solution to improve water management and enhance yield stability.
+---
+
+# Abstract
+
+Agriculture faces the dual challenge of managing water excess and deficit—pressures intensified by climate change—while reducing nutrient losses to surface waters. Controlled drainage (CD) offers a promising solution to improve water management and enhance yield stability. Despite its benefits and available subsidies, adoption among Swedish farmers remains low. To address this gap, we are establishing a CD demonstration field at Borgeby Fältdagar, Sweden’s largest agricultural fair. The aim is to showcase the productivity, economic, and environmental advantages of CD, respond to farmers’ concerns, and identify knowledge gaps. Field trials compare free drainage with CD systems using different groundwater level strategies across multiple crops, enabling crop-specific recommendations for CD management. The project also evaluates the integration of soil moisture sensors and user-friendly data platforms to simplify CD operation for farmers. Surveys reveal limited knowledge and skepticism regarding CD, highlighting the need for practical guidance and evidence-based communication. This three-year initiative adopts a multidisciplinary approach, engaging researchers at RISE, farmers, sensor developers, advisors, and the Swedish Board of Agriculture to co-create solutions that support sustainable water management in Swedish agriculture.

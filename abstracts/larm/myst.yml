@@ -1,0 +1,23 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-larm
+  title: 'Coupling Functional-Structural Plant and Electromagnetic Wave Modeling: A gprMax-CPlantBox Framework for Root-Zone Studies'
+  description: Soil-water-crop interactions influence plant growth and productivity. As climate change disrupts agriculture, it is crucial to understand these dynamics to sustain yields through beneficial root phenotypes. We used gprMax, an open-source 3D finite-difference time-domain EM simulation tool, to model EM waves in agricultural soils.
+  authors:
+    - name: Lena Lärm
+      affiliation: ibg
+    - name: Magdalena Landl
+      affiliation: ibg
+    - name: Andrea Schnepf
+      affiliation: ibg
+    - name: Anja Klotzsche
+      affiliation: ibg
+  affiliations:
+    - id: ibg
+      name: 'Institute of Bio- and Geoscience: Agrosphere (IBG-3), Forschungszentrum Jülich GmbH'
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    GPR: ground penetrating radar
+    SWC: soil water content
+    EM: electromagnetic

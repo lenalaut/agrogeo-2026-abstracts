@@ -1,0 +1,65 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-swift
+  title: Just how wet is it? Defining resistivity / moisture content relationships in African Alfisols
+  description: A key parameter influencing crop growth is the availability of water and its spatial distribution within agricultural soils. We present laboratory data on agricultural Alfisols from three sites in southern Africa, to define relationships between electrical resistivity and volumetric water content.
+  authors:
+    - name: Russell Swift
+      affiliations:
+        - aff1
+        - aff2
+    - name: Jonathan Chambers
+      affiliation: aff1
+    - name: Innocent Sandram
+      affiliation: aff3
+    - name: Tongai Mtangadura
+      affiliation: aff4
+    - name: Miyanda Moombe
+      affiliation: aff5
+    - name: Ed Bruce
+      affiliation: aff1
+    - name: Hatirarami Nezomba
+      affiliation: aff4
+    - name: Elijah Phiri
+      affiliation: aff5
+    - name: Joseph Chimungu
+      affiliation: aff3
+    - name: Matthew Kirkham
+      affiliation: aff1
+    - name: Chawezi Miti
+      affiliation: aff6
+    - name: Vengai Mbanyele
+      affiliation: aff4
+    - name: Nellie Magwero
+      affiliation: aff3
+    - name: Patson Nalivata
+      affiliation: aff3
+    - name: Florence Mtambanengwe
+      affiliation: aff4
+    - name: Paul Mapfumo
+      affiliation: aff4
+    - name: Frédéric Nguyen
+      affiliation: aff2
+    - name: Murray Lark
+      affiliations:
+        - aff7
+        - aff6
+  affiliations:
+    - id: aff1
+      name: British Geological Survey
+    - id: aff2
+      name: University of Liège, Belgium
+    - id: aff3
+      name: Lilongwe University of Agriculture and Natural Resources, Malawi
+    - id: aff4
+      name: University of Zimbabwe
+    - id: aff5
+      name: University of Zambia
+    - id: aff6
+      name: Rothamsted Research, UK
+    - id: aff7
+      name: University of Nottingham, UK
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    ERT: Electrical Resistivity Tomography

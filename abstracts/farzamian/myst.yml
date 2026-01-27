@@ -1,0 +1,26 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-farzamian
+  title: Monitoring soil salinity using EMI in Irrigated Lands in Portugal
+  description: Soil salinization is a major constraint on agricultural productivity, requiring efficient monitoring tools to support sustainable management. This study evaluates the capability of electromagnetic induction sensing combined with inversion technique to monitor soil salinity and sodicity across several irrigated agricultural lands in Portugal.
+  authors:
+    - name: Mohammad Farzamian
+      affiliation: INIAV
+    - name: Nadia Castanheira
+      affiliation: INIAV
+    - name: Tiago B. Ramos
+      affiliation: INIAV
+    - name: Maria Catarina Paz
+      affiliation: CIQuiBio
+    - name: Ana Marta Paz
+      affiliation: INIAV
+  affiliations:
+    - id: INIAV
+      name: INIAV, Instituto Nacional de Investigação Agrária e Veterinária, Oeiras, Portugal
+    - id: CIQuiBio
+      name: CIQuiBio, Barreiro School of Technology, Polytechnic Institute of Setúbal, Lavradio, Portugal
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    EMI: electromagnetic induction
+    ECa: apparent electrical conductivity

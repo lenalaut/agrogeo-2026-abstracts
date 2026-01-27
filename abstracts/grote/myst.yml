@@ -1,0 +1,14 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-grote
+  title: Combined Geophysical and UAV-based Soil Property Characterization – Best Practices and Future Directions
+  description: Increasing global population and living standards require greater agricultural production than ever before. Simultaneously, reductions in the availability of arable land and fresh water require more efficient use of natural resources. Recent research shows how the combination of geophysical and UAV-based techniques can be used to rapidly characterize soil properties over an entire field.
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    EMI: electromagnetic induction
+    GPR: ground penetrating radar
+    UAV: uncrewed aerial vehicle
+    ML: machine learning
+    SWC: soil water content
+    ECa: apparent electrical conductivity

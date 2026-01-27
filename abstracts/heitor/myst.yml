@@ -1,0 +1,14 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-heitor
+  title: Why does soil water retention capacity and soil structure matter for agrogeophyics
+  description: Soil water retention capacity and soil structure are fundamental properties that influence agroecosystems, for instance plant growth, nutrient cycling, and hydromechanical dynamics. In this paper, the interconnected role of soil water retention and structure in agrogeophysics is highlighted and their significance for optimizing resource use and mitigating environmental impacts in modern farming systems it outlined.
+  authors:
+    - name: Ana Heitor
+      affiliation: School of Civil Engineering, University of Leeds, Leeds, UK
+    - name: Christopher Walker
+      affiliation: Formerly School of Civil Engineering, University of Leeds, North Yorkshire Council, UK
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    SWRC: soil water retention capacity

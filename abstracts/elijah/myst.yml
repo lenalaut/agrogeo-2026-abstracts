@@ -1,0 +1,14 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-elijah
+  title: 'Ground water assessment at potential points of recharge in natural environment: A case study of lusaka national park'
+  description: The assessment of groundwater systems in protected areas is critical for sustainable water resource management, particularly in regions experiencing rapid urbanisation and climate change and variability. This study employed Electrical Resistivity Tomography techniques to investigate groundwater flow resource patterns and identify potential recharge zones and aquifers within Lusaka National Park, Zambia.
+  authors:
+    - name: Phiri Elijah
+      affiliation: University of Zambia
+    - name: Michelo Mutakwa
+      affiliation: Zambia Wildlife Authority
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    ERT: Electrical Resistivity Tomography

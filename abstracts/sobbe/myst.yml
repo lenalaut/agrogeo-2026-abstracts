@@ -1,0 +1,28 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-sobbe
+  title: 'Non-invasive monitoring of subsoil structural changes: a four-year EMI study on bio-drilling and mechanical melioration'
+  description: Subsoil processes are increasingly recognized as key components of agroecosystem functioning, particularly with respect to water availability, root development, and the long-term sustainability of soil management practices. In this study, a long-term field experiment was used to investigate subsoil behaviour under contrasting management strategies that combined different vegetation pre-conditioning approaches with mechanical and organic subsoil treatments.
+  authors:
+    - name: Aaron Sobbe
+      affiliation: aff1
+    - name: Anja Klotzsche
+      affiliation: aff2
+    - name: Jessica Schmäck
+      affiliation: aff2
+    - name: Rizzo Enzo
+      affiliation: aff3
+    - name: Jan van der Kruk
+      affiliation: aff2
+  affiliations:
+    - id: aff1
+      name: Department of Physics and Earth Sciences, Via G. Saragat, 1, 44121, University of Ferrara, Italy
+    - id: aff2
+      name: Agrosphere Institute IBG‐3, Forschungszentrum Jülich GmbH, 52425 Jülich, Germany
+    - id: aff3
+      name: Department of Physics and Earth Sciences, Via G. Saragat, 1, 44121, University of Ferrara, Italy
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    EMI: electromagnetic induction
+    ECa: apparent electrical conductivity

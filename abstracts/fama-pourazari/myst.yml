@@ -1,0 +1,12 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-fama-pourazari
+  title: 'Controlled Drainage DemoField: Advancing Water Management and Yield Resilience'
+  description: Agriculture faces the dual challenge of managing water excess and deficit—pressures intensified by climate change—while reducing nutrient losses to surface waters. Controlled drainage offers a promising solution to improve water management and enhance yield stability.
+  authors:
+    - name: Fereshteh Fama Pourazari
+      affiliation: RISE - Research Institutes of Sweden
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    CD: controlled drainage

@@ -1,0 +1,25 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-schwartz
+  title: ERT-Based Phenotyping of Root Architecture and Water Use Efficiency in Wheat
+  description: In arid and semi-arid regions, terminal drought is a primary constraint on wheat production. This study utilized Electrical Resistivity Tomography to non-invasively quantify root water uptake and phenotype genotypes with contrasting root system architectures under field conditions.
+  authors:
+    - name: Emmanuel Akaerue
+      affiliation: aff1
+    - name: Or Kashi
+      affiliation: aff1
+    - name: Roy Sadeh
+      affiliation: aff1
+    - name: Zvi Peleg
+      affiliation: aff1
+    - name: Nimrod Schwartz
+      affiliation: aff1
+  affiliations:
+    - id: aff1
+      name: The Hebrew University of Jerusalem
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    ERT: Electrical Resistivity Tomography
+    RWU: root water uptake
+    RSA: root system architecture

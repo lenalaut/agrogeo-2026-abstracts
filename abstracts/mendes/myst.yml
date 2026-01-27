@@ -1,0 +1,30 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-mendes
+  title: Application of ground-penetrating radar and electrical resistivity tomography to evaluate the impact of future construction on tree health in a historical botanical garden in Lisbon
+  description: Historical botanical gardens are unique sites of conservation, research, education, and connection with the plant world. A methodology integrating two non-invasive geophysical techniques — ground-penetrating radar and electrical resistivity tomography — was applied to assess groundwater levels in the construction area and establish the piezometric surface, and to determine whether tree root zones reach the saturated zone, establish a groundwater baseline, and propose protective measures. Results indicate that the piezometric surface and tree root zones extend to depths of up to 3.0 m, demonstrating that tree roots can reach groundwater levels. This highlights the need for groundwater monitoring and management strategies.
+  authors:
+    - name: Maria Paula Mendes
+      affiliation: cerena
+    - name: Ana Paula Falcão
+      affiliation: ceris
+    - name: Nuno Afonso
+      affiliation: ceris
+    - name: Miguel Esteves
+      affiliation: ceg
+    - name: Maria Catarina Paz
+      affiliation: mare
+  affiliations:
+    - id: cerena
+      name: CERENA, Centro de Recursos Naturais e Ambiente, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais, 1049-001, Lisboa, Portugal
+    - id: ceris
+      name: CERIS, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais, 1, 1049-001 Lisboa, Portugal
+    - id: ceg
+      name: CEG, Instituto de Geografia e Ordenamento do Território, Universidade de Lisboa, Rua Branca Edmée Marques, Edifício IGOT, Cidade Universitária, 1600-276 Lisboa, Portugal
+    - id: mare
+      name: MARE—Marine and Environmental Sciences Centre, Escola Superior de Tecnologia do Barreiro, Instituto Politécnico de Setúbal, Rua Américo da Silva Marinho, 2839-001, Lavradio, Portugal
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    GPR: ground-penetrating radar
+    ERT: electrical resistivity tomography

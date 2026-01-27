@@ -1,0 +1,11 @@
+---
+title: Building up a plot-scale hydrogeological model using results from near-surface geophysical techniques
+description: Região Oeste, located in western Portugal, is an important agricultural area where groundwater faces the risk of quantitative depletion due to increasing aquifer exploitation and climate-driven decreases in precipitation, as well as qualitative degradation caused by the increasing influx of pollutants associated with land-use conversion toward hyper-intensive farming. In this study, we present preliminary findings of a hydrogeological model of the Santo António stream valley in Cadaval municipality.
+---
+
+# Abstract
+
+Região Oeste, located in western Portugal, is an important agricultural area where groundwater faces the risk of quantitative depletion due to increasing aquifer exploitation and climate-driven decreases in precipitation, as well as qualitative degradation caused by the increasing influx of pollutants associated with land-use conversion toward hyper-intensive farming.
+In this study, we present preliminary findings of a hydrogeological model of the Santo António stream valley in Cadaval municipality. The model aims to assess the aquifer’s response to future climate and land-use scenarios, serving as a decision-support tool.
+The hydrogeological model required a variety of data to define aquifer geometry and its steady and transient hydrodynamics. We used a combination of three near-surface applied geophysical techniques to support these targets, as (1) multiple analysis of surface waves (MASW) for steady aquifer thickness, (2) ground-penetrating radar (GPR) for detailed shallow geometry and transient water table, and (3) time-lapse electrical resistivity tomography (ERT) for transient groundwater salinity dynamics.
+Over the aquifer transect selected for modelling, data acquisition over one-year monitoring period included (i) monthly ERT along two profiles in the upstream and downstream transect ends; (ii) MASW along the same two profiles; (iii) GPR profiling covering the study area; (iv) monthly and hourly recording of groundwater level in a selected well; (v) monthly streamflow in two temporary gauging stations in the Santo António stream; (vi) monthly groundwater and surface water sampling in the selected well and runoff gauging stations, respectively, and (vii) three infiltration tests.

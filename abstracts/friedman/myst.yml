@@ -1,0 +1,22 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-friedman
+  title: Polarization processes and energy relationships between cations and negatively charged soil particles as revealed by Wien effect measurements
+  description: The electrical conductivity of an electrolytic solution is expected to be independent of the applied electrical field strength according to Ohm’s law. With the help of a home made, low-cost apparatus yielding a short high-voltage pulse, we have measured the increase in EC of mono and multivalent cationic suspensions made of clay fraction particles separated from natural soils.
+  authors:
+    - name: Cheng Bao Li
+      affiliation: iss
+    - name: Yu-Jun Wang
+      affiliation: iss
+    - name: Shmulik Friedman
+      affiliation: volcani
+  affiliations:
+    - id: iss
+      name: Key Laboratory of Soil Environment and Pollution Remediation, Institute of Soil Science, Chinese Academy of Sciences, Nanjing 210008, China
+    - id: volcani
+      name: Institute of Soil, Water, and Environmental Sciences, Agricultural Research Organization, the Volcani Center, Rishon LeZion 7505101, Israel
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    EC: electrical conductivity
+    E: electrical field strength

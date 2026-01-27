@@ -1,0 +1,17 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-mary
+  title: Exploring soil management legacies in agronomy through EM and ERT
+  description: At a field site near Madrid, we set up an experiment running for several growing seasons to investigate how soil moisture influences barley phenology and yield.
+  authors:
+    - name: Benjamin Mary
+      affiliation: csic
+    - name: Miguel Herrezuelo
+      affiliation: csic
+    - name: Hector Nieto
+      affiliation: csic
+  affiliations:
+    - id: csic
+      name: Institute of Agricultural Sciences | CSIC
+  github: https://github.com/curvenote-submit/agrogeo26

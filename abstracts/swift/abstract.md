@@ -1,0 +1,10 @@
+---
+title: Just how wet is it? Defining resistivity / moisture content relationships in African Alfisols
+description: A key parameter influencing crop growth is the availability of water and its spatial distribution within agricultural soils. We present laboratory data on agricultural Alfisols from three sites in southern Africa, to define relationships between electrical resistivity and volumetric water content.
+---
+
+# Abstract
+
+A key parameter influencing crop growth is the availability of water and its spatial distribution within agricultural soils. The strong electrical response associated with variations in water content means that electrical geophysical methods such as Electrical Resistivity Tomography (ERT) are ideally suited for studying soil moisture dynamics. While relative changes in electrical resistivity allow conclusions to be drawn on the temporal variability of soil moisture in the subsurface, they do not provide quantitative estimates of soil moisture. Laboratory measurements of soil moisture and electrical resistivity - together with the fitting of a model to these data (e.g. Waxman-Smits) - enable the estimation of soil moisture from ERT models. While this method is established, examples are limited for Alfisols in general, and from African sites in particular.
+
+We present laboratory data on agricultural Alfisols from three sites in southern Africa, to define relationships between electrical resistivity and volumetric water content. We fit the data to several widely used models, and utilise the novel application of Akaike’s Information Criterion to identify the best model for each dataset. In addition to identifying which model is most suitable for each site, our findings also allow us to make conclusions on whether a single or multiple models are required per site, or even whether heterogeneities make the utilisation of a model inadvisable. We then compare our results against complementary laboratory datasets to explain which soil physical parameters are the main causes of variability in electrical response at each site.

@@ -1,0 +1,56 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-loiseau
+  title: 'From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach'
+  description: Electrical Resistivity Tomography is increasingly used to study subsurface hydrological processes. It shows strong potential for estimating soil water content, an essential yet challenging property to quantify. We propose an innovative method called the Ensemble Approach ERT, which consists of building an ensemble model of subsurface electrical resistivity, calibrated using in situ data, and then converted into spatially distributed water content.
+  authors:
+    - name: B. Loiseau
+      affiliations:
+        - aff1
+        - aff2
+    - name: S. D. Carrière
+      affiliations:
+        - aff1
+        - aff2
+    - name: N. K. Martin-StPaul
+      affiliation: aff3
+    - name: R. Clément
+      affiliation: aff4
+    - name: C. Champollion
+      affiliation: aff5
+    - name: V. Mercier
+      affiliation: aff6
+    - name: J. Thiesson
+      affiliation: aff2
+    - name: S. Pasquet
+      affiliations:
+        - aff2
+        - aff7
+    - name: C. Doussan
+      affiliation: aff6
+    - name: T. Hermans
+      affiliation: aff8
+    - name: D. Jougnot
+      affiliation: aff2
+  affiliations:
+    - id: aff1
+      name: HSM, Univ. Montpellier, CNRS, IMT, IRD, Montpellier, France (bertille.loiseau@ird.fr)
+    - id: aff2
+      name: Sorbonne Université, CNRS, EPHE, UMR 7619 METIS, 75005 Paris, France.
+    - id: aff3
+      name: URFM, INRAE, Domaine Saint Paul, Site Agroparc, 84000 Avignon, France.
+    - id: aff4
+      name: REVERSAAL Research Unit, INRAE, Villeurbanne, 69626, France.
+    - id: aff5
+      name: Géosciences Montpellier, Université de Montpellier, CNRS, Montpellier, France.
+    - id: aff6
+      name: INRAE - Avignon Université, UMR EMMAH, 84914, Avignon, France.
+    - id: aff7
+      name: UAR 3455 OSU ECCE TERRA, CNRS, Sorbonne Université, Paris, France.
+    - id: aff8
+      name: Department of Geology, Ghent University, 9000 Gent, Belgium.
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    ERT: electrical resistivity tomography
+    EA-ERT: Ensemble Approach ERT

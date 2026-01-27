@@ -1,0 +1,16 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-de-carlo
+  title: Optimizing water management zones by clustering geophysical data and remote sensing information
+  description: Accurately estimating soil moisture is a significant challenge, especially in the context of climate change. A methodological approach combining geophysical data, remote sensing, and hydrological data from multiple sources has been tested to identify optimal water management zones.
+  authors:
+    - name: Lorenzo De Carlo
+      affiliation: CNR-IRSA
+    - name: Celeste Antonietta Turturro
+      affiliation: CNR-IRSA
+    - name: Mert Cetin Ekiz
+      affiliation: CNR-IRSA
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    EMI: electromagnetic induction

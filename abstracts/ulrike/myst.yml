@@ -1,0 +1,26 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-ulrike
+  title: Towards a Metadata Framework for Near-Surface Geophysical Data in Agriculture
+  description: Near-surface geophysical methods are increasingly used in agriculture to characterise soil properties, monitor spatial variability, and support site-specific management. We present an initial metadata framework designed for near-surface geophysical prospecting for agricultural use.
+  authors:
+    - name: Ulrike Werban
+      affiliation: aff1
+    - name: Johannes Rabiger-Völlmer
+      affiliation: aff1
+    - name: Till Sonnemann
+      affiliation: aff2
+    - name: Claudia Schütze
+      affiliation: aff3
+  affiliations:
+    - id: aff1
+      name: Helmholtz Centre for Environmental Research (UFZ), Department Monitoring and Exploration Technologies
+    - id: aff2
+      name: University Bonn, Bonn Center for Digital Humanities
+    - id: aff3
+      name: German Environment Agency
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    FDEM: frequency domain electromagnetic induction
+    FAIR: findable, accessible, interoperable, and reusable

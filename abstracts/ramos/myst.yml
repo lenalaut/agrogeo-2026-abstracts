@@ -1,0 +1,17 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-ramos
+  title: 'Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach'
+  description: Understanding soil–water dynamics is essential for sustainable land management, particularly in agricultural systems facing intensification and climate variability. This study demonstrates that integrating agrogeophysical tools with agronomic data from long-term experiments provides a valuable framework for assessing soil–water dynamics and the long-term impact of crop and pasture rotation and soil conservation strategies.
+  authors:
+    - name: Julián Ramos
+      affiliation: Departamento del Agua, CENUR Litoral Norte, Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Física, Buenos Aires, Argentinaersidad de la República (Udelar), Salto, Uruguay
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    LTE: long-term experiment
+    LTE-OR: Old Rotations
+    LTE-IR: Irrigated Rotations
+    ERT: electrical resistivity tomography
+    EMI: electromagnetic induction
+    GPR: ground-penetrating radar

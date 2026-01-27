@@ -1,0 +1,15 @@
+version: 1
+extends: ../agrogeo26.yml
+project:
+  id: agrogeo-2026-kuzma
+  title: 'Physics-informed neural networks for forward ERT modeling: an initial step toward mesh-free, time-dependent coupled hydro-geophysical inversion'
+  description: Electrical resistivity tomography is a cornerstone method in agrogeophysics. Despite its widespread use, standard numerical inversion schemes face significant challenges, such as resolving the complex subsurface geometries and handling high-contrast boundaries that introduce mesh-related artifacts. This study proposes a Physics-Informed Neural Network approach for solving the forward ERT problem as a foundational step toward overcoming these limitations.
+  authors:
+    - name: Kuzma Tsukanov
+      affiliation: Agriculture Research Organization (ARO), Israel
+    - name: Ziv Moreno
+      affiliation: Agriculture Research Organization (ARO), Israel
+  github: https://github.com/curvenote-submit/agrogeo26
+  abbreviations:
+    ERT: electrical resistivity tomography
+    PINN: Physics-informed neural network
